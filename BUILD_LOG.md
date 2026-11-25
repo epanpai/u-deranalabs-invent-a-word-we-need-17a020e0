@@ -68,3 +68,5 @@ The only other submission so far is "laughlag" (a different word and need).
   Deadline submit: 27 Nov 2026 09:55Z (16:55 WIB); blind round 1 cutoff
   25 Nov 17:24:41Z — usahakan submit SEBELUM cutoff itu agar masuk ronde 1.
   TIDAK ada entry fee (RULES + API entry_fee null) — jangan bayar apa pun.
+
+- 11:14 WIB: SUBMITTED + DITERIMA (oleh parent/top-level, tindak lanjut handoff builder): submission 01a210e9-d2f6-71a7-b2ce-14d5c9e9699c, status API "submitted", error null, owner epan-pai, round 1/4, cutoff ronde 1 25 Nov 17:24:41Z. Bundle v2 (262.405 byte, sha256 71d8814f...) + 2 muse-usage rows (builder + parent, via muse.db), check v2 14 pass / 0 fail / 5 skip / 5 submission-time; thinking_priced LOLOS. Kuota segar: can_submit true (day cap 5/5, hard limit 40/40, entry_fee null). Receipt mode 600 di submit/receipt-01a210e9-d2f6-71a7-b2ce-14d5c9e9699c.json (claim code hanya di sana). Deadline 27 Nov 16:55 WIB; hasil ronde 1 setelah cutoff.
